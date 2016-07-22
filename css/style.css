@@ -1,0 +1,81 @@
+.navbar-inverse {
+/*    background-color: #005883;*/
+    border-color: #000;
+    -webkit-box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.4);
+    -moz-box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.4);
+    box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.4);
+}
+
+.navbar-inverse .navbar-brand {
+    color: #f5f5f5;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav>.active>a {
+     color: #fff;
+     background-color: #644764;
+     -webkit-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.4);
+     -moz-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.4);
+     box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.4);
+}
+
+.navbar {
+     z-index: 4;
+}
+
+.page-header {
+     font-size: 45px;
+}
+
+.jumbotron {
+     background-color: rgba(177, 163, 177, 0.58);
+     box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.4);
+}
+
+
+.resBtn {
+     margin: 0 20px 0 20px;
+}
+
+.btn-success {
+     box-shadow: 0px 3px 4px 0px rgba(0,0,0,0.4);
+}
+
+.btn-primary a,
+.btn-success a {
+     color: #fff;
+}
+
+.panel {
+     box-shadow: 0px 3px 13px 0px rgba(0,0,0,0.4);
+}
+
+#resourcesBreadcrumb {
+    background-color: #5CB85C; 
+}
+
+
+#resourcesBreadcrumb a, 
+#resourcesBreadcrumb li i.fa,
+#resourcesBreadcrumb > li.active  {
+     color: #fff;
+}
+
+.quickLinks {
+     margin-right: 15px;
+}
+
+.quickNav {
+     background-color: #d9edf7;
+}
+
+.quickNav a {
+     color: #000;
+}
+
+
+
+
