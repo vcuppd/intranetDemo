@@ -88,7 +88,7 @@ body {
 }
 
 .quickBtn {
-     margin: 30px 60px;
+     margin: 30px -40px;
 }
 
 .quickNav {
@@ -103,3 +103,4 @@ body {
      margin-top: 10px;
      font-size: 18px;
 }
+
